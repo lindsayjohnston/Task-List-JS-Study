@@ -12,4 +12,4 @@ Font Awesome: https://www.bootstrapcdn.com/fontawesome/
 
 ## The App:
 
-(Click Here)[https://lindsayjohnston.github.io/Task-List-JS-Study/]
+[Click Here](https://lindsayjohnston.github.io/Task-List-JS-Study/)
